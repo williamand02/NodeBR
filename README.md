@@ -2,6 +2,7 @@
 
 ## Aprendizados
 
-Modulo 1 - Sincronia de funções Javascript
-Modulo 2 - Manipulação de listas
-Modulo 3 - Introdução a desenvolvimento de testes automatizados
+- **Modulo 1** - Sincronia de funções Javascript
+- **Modulo 2** - Manipulação de listas
+- **Modulo 3** - Introdução a desenvolvimento de testes automatizados
+- **Módulo 4** - Node.js além da Web - Criando ferramentas de linha de comando
