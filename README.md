@@ -8,3 +8,4 @@
 - **Módulo 4** - Node.js além da Web - Criando ferramentas de linha de comando
 - **Módulo 5** - Bancos de Dados - Nosso projeto Multi-banco de dados
 - **Modulo 6** - Introdução ao Postgres e Bancos Relacionais
+- **Módulo 7** - Introdução ao MongoDB e Bancos Não-Relacionais (NoSQL)
