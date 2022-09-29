@@ -9,4 +9,7 @@
 - **Módulo 5** - Bancos de Dados - Nosso projeto Multi-banco de dados
 - **Modulo 6** - Introdução ao Postgres e Bancos Relacionais
 - **Módulo 7** - Introdução ao MongoDB e Bancos Não-Relacionais (NoSQL)
+<<<<<<< HEAD
 - **Módulo 8** - Refatorando nosso projeto para bancos de dados multi-schemas
+=======
+>>>>>>> c01827a21ba8cbd8e7c9fa58573e5c85bff255eb
