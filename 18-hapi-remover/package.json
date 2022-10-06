@@ -1,0 +1,22 @@
+{
+  "name": "18-hapi-remover",
+  "version": "1.0.0",
+  "description": "```shel docker run --name postgres -e POSTGRES_USER=rootName -e POSTGRES_PASSWORD=rootPassword -e POSTGRES_DB=heroes -p 5432:5432 -d postgres ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/tests/*.js",
+    "test:watch": "mocha src/tests/*.js -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "hapi": "^17.1.0",
+    "joi": "^14.3.1",
+    "mongoose": "^6.6.2",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.23.0"
+  }
+}
