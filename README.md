@@ -10,4 +10,4 @@
 - **Modulo 6** - Introdução ao Postgres e Bancos Relacionais
 - **Módulo 7** - Introdução ao MongoDB e Bancos Não-Relacionais (NoSQL)
 - **Módulo 8** - Refatorando nosso projeto para bancos de dados multi-schemas
-- **Módulo 9** - Node.js e Web Services - Criando serviços profissionais com Hapi.js
+- **Módulo 9** - Node.js e Web Services - Criando serviços profissionais com - **Módulo 10** - Documentação de Serviços com Swagger
