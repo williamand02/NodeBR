@@ -12,3 +12,4 @@
 - **Módulo 8** - Refatorando nosso projeto para bancos de dados multi-schemas
 - **Módulo 9** - Node.js e Web Services - Criando serviços profissionais com
 - **Módulo 10** - Documentação de Serviços com Swagger
+- **Módulo 11** - Autenticação com Json Web Token
