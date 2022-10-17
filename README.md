@@ -13,3 +13,4 @@
 - **Módulo 9** - Node.js e Web Services - Criando serviços profissionais com
 - **Módulo 10** - Documentação de Serviços com Swagger
 - **Módulo 11** - Autenticação com Json Web Token
+- **Módulo 12** - Publicação de serviços na Web
